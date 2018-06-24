@@ -19,11 +19,10 @@ It includes defaults that I like:
   - sass syntax
   - variable support
 
-## javascript
-
-## terseness
-
-## great colour scheme
+## etc
+  - javascript
+  - terseness
+  - great colour scheme
 
 
 # TODOs
