@@ -1,6 +1,5 @@
 ---
 layout: markdown
-title: Home Page
 permalink: /
 ---
 
