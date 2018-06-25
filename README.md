@@ -29,5 +29,4 @@ It includes defaults that I like:
 
 If you use this template, you may want to start by:
 
-- modifying CNAME to be your url
-- modify title in config.yml
+- modifying the title in config.yml
